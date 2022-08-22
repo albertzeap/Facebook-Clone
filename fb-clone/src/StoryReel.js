@@ -14,14 +14,14 @@ function StoryReel() {
         <Story 
             image="https://images.unsplash.com/photo-1656738116305-6d807e9459f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
             profileSrc="https://images.unsplash.com/photo-1656738610692-3aec73fc41db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
-            title="Your Dad"
+            title="Dad"
         
         />
 
         <Story 
             image="https://images.unsplash.com/photo-1656712440385-efce39f78084?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
             profileSrc="https://images.unsplash.com/photo-1656703497955-2523f21dd501?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
-            title="Your Mom"
+            title="Mom"
         
         />
 
