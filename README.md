@@ -1,6 +1,6 @@
 # Facebook Clone
 ## Overview
-This project was made by following the tutorial: [](https://youtu.be/B-kxUMHBxNo)
+This project was made by following the tutorial: [Facebook Clone Tutorial](https://youtu.be/B-kxUMHBxNo)
 
 This project uses React library, Material-UI, and Firebase to create a facebook clone with a same look and functionality as the current Facebook.
 Specifically, React is used to easily create the different components that make up the landing page of Facebook. By doing so, developers
